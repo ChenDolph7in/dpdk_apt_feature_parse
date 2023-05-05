@@ -2,7 +2,7 @@
 
 ## 版本
 
-* wmware-17
+* vmware-17
 * dpdk-stable-2022.11.1
 * gcc-6
 * python-3.9
@@ -13,9 +13,8 @@
 
 hashmap API（hashmap.h）采用：https://github.com/sheredom/hashmap.h
 
-main.c : 主程序
-
-gen_features.py : C调用程序
+* main.c : 主程序
+* gen_features.py : C调用python程序
 
 
 
